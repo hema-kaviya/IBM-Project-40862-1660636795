@@ -1,10 +1,10 @@
 ﻿# IBM-Project-40862-1660636795
 
-created the flask project
+created the flask project 
 
-#Empathy map completed
+#Empathy map completed ✔️ 
 -------
-#litrature survey completed
+#litrature survey completed ✔️ 
 -------
-#Problem statemets completed
+#Problem statemets completed ✔️ 
 ----
