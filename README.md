@@ -8,4 +8,4 @@ created the flask project
 -------
 #Problem statemets completed ✔️ 
 ----
-#brainstorming & ideation ✔️ 
+# Brainstorming & ideation ✔️ 
