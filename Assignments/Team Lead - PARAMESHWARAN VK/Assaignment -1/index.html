@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <title>Registration page </title>
+</head>
+<body>
+    
+    <form method="post" >
+      <h1>REGISTRATION PAGE</h1>
+        <div class="mb-3">
+          <label for="name" class="form-label">Enter the name</label>
+          <input type="text" class="form-control" id="name " placeholder="NAME">
+        </div>
+
+        <div class="mb-3">
+          <label for="qualification" class="form-label">Qualification</label>
+          <input type="text" class="form-control" id="qualification" placeholder="Qualification">
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="EMAIL">
+        </div>
+
+        <div class="mb-3">
+          <label for="age" class="form-label">Enter the age</label>
+          <input type="text" class="form-control" id="age" placeholder="age">
+        </div>
+        <button type="submit" onclick="submit()"class="btn btn-primary">Submit</button>
+      </form>
+      <script>
+        function submit(){
+          const name = document.getElementById('name');
+          alert(name);
+        }
+      </script>
+</body>
+</html>
