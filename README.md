@@ -75,7 +75,7 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 - [@Vkparamesh](https://github.com/Vkparamesh)
 - [@MANOJ ADHITHYAN](https://github.com/MANOJADHITHYAN)
 - [@DAYANITHI](https://github.com/kalaitamizhan)
-- [@MANOJ ADHITHYAN](https://github.com/mohanrajdoctor)
+- [@MOHAN RAJ](https://github.com/mohanrajdoctor)
 
 
 ## Feedback
