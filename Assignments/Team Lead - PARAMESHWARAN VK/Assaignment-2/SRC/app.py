@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.secret_key = 'a'
 
 conn = ibm_db.connect(
-    "DATABASE=bludb;HOSTNAME=fbd88901-ebdb-4a4f-a32e-9822b9fb237b.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;PORT=32731;USERNAME=dtp46044;PASSWORD=95soX0sZGhb4ToUj;SECURITY=SSL;SSLSERVERCERTIFICATE=DigiCertGlobalRootCA.crt;", "", "")
+    "DATABASE=#;HOSTNAME=#;PORT=32731;USERNAME=#PASSWORD=#;SECURITY=SSL;SSLSERVERCERTIFICATE=DigiCertGlobalRootCA.crt;", "", "")
 
 
 @app.route("/", methods=['GET', 'POST'])
